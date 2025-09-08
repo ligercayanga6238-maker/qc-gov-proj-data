@@ -1,11 +1,10 @@
-"engineering_field","patents_filed"
-Civil,342
-Mechanical,589
-Electrical,721
-Computer,845
-Chemical,412
-Biomedical,278
-Aerospace,365
-Environmental,198
-Industrial,256
-Materials,334
+Engineering Field,Patent Applications (EPO, 2023)
+Electrical,15304
+Telecommunications,4681
+Biotechnology,8367
+Pharmaceuticals,9273
+Materials,4419
+Chemical Engineering,4168
+Transport,9445
+Handling,4950
+Thermal Processes,2937
